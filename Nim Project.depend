@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1522346824 source:c:\users\ahmed\desktop\nim project\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<cmath>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"TestCases.h"
+
+1522346880 c:\users\ahmed\desktop\nim project\testcases.h
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<cmath>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
+1522374299 source:e:\nim project-20180329t204447z-001\nim project\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cmath>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"TestCases.h"
+
+1522374264 e:\nim project-20180329t204447z-001\nim project\testcases.h
+	<iostream>
+	<algorithm>
+	<string>
+	<cmath>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
